@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aarijmerchant
 - 📚 I currently study :abacus: Math @ UPenn... 
-- 👨🏻‍💻 ...and work in Corporate Strategy and Operations for an eCommerce company
+- 👨🏻‍💻 ...and work as a member of Management as part of Corporate Strategy & Operations for an eCommerce company
 <br/><br/>
 - 🌱 Though my academic coursework (in Data, Econ, Stats) has been with R, I more often use Cypher (Neo4j), SQL, and Python. 
 - :construction_worker_man: I’m currently learning to work w/ real-life practical applications involving non-relationship databases. 
