@@ -2,7 +2,8 @@
 - 📚 I currently study :abacus: Math @ UPenn... 
 - 👨🏻‍💻 ...and work in Corporate Strategy and Operations in eCommerce
 <br/><br/>
-- 🌱 I’m currently learning working w/ non-relationship databases at work to help us make better business decisions. Also, always looking at ways to brush up on SQL, Python, R. My coursework is mostly R based, while I work in SQL and Python at work.
+- 🌱 Though my academic coursework (in Data, Econ, Stats) has been with R, I more often use Cypher (Neo4j), SQL, and Python. 
+- :construction_worker_man: I’m currently learning to work w/ real-life practical applications involving non-relationship databases to help us leverage our website data to make better business decisions. 
 <br/><br/>
 - 👨‍💻 Previously:
    - 🎓 Econ/Government @ Harvard
