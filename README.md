@@ -3,7 +3,7 @@
 - 👨🏻‍💻 ...and work in Corporate Strategy and Operations in eCommerce
 <br/><br/>
 - 🌱 Though my academic coursework (in Data, Econ, Stats) has been with R, I more often use Cypher (Neo4j), SQL, and Python. 
-- :construction_worker_man: I’m currently learning to work w/ real-life practical applications involving non-relationship databases to help us leverage our website data to make better business decisions. 
+- :construction_worker_man: I’m currently learning to work w/ real-life practical applications involving non-relationship databases. 
 <br/><br/>
 - 👨‍💻 Previously:
    - 🎓 Econ/Government @ Harvard
