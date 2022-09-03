@@ -10,7 +10,7 @@
    - 🏛️ Executive Government roles w/ City of Boston and Commonwealth of Massachusetts
    - 📈 Sales & Trading/Banking in Equities & Derivatives covering Commodities :corn: :oil_drum: and later Prime Execution Services :dollar::chart:
 <br/><br/>
-- 👀 I’m (always) interested in probono data analytics works and happy to help!
+- 👀 I’m (always) interested in probono data analytics work and happy to help!
 - 📫 Reach out to me on LinkedIn (Linkedin.com/in/aarijmerchant)
 
 <!---
