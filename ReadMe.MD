@@ -6,6 +6,7 @@
 - :construction_worker_man: I’m currently learning to work w/ real-life practical applications involving non-relationship databases (Cypher/Neo4j). 
 <br/><br/>
 - 👨‍💻 Previously:
+   - 📚 Math @ UPenn
    - 🎓 Econ/Government @ Harvard
    - 🏛️ Executive Government roles w/ City of Boston and Commonwealth of Massachusetts
    - 📈 Sales & Trading/Banking in Equities & Derivatives covering Commodities :corn: :oil_drum: and later Prime Execution Services :dollar::chart:
