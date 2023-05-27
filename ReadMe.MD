@@ -1,12 +1,11 @@
 - 👋 Hi, I’m @aarijmerchant
-- 📚 I currently study :abacus: Math @ UPenn... 
-- 👨🏻‍💻 ...and work in Corporate Finance for an eCommerce company
+- 👨🏻‍💻 I currently work in Corporate Finance for an eCommerce company
 <br/><br/>
 - 🌱 Though my academic coursework (in Data, Econ, Stats) has been with R, I use SQL and Python more frequently. 
 - :construction_worker_man: I’m currently learning to work w/ real-life practical applications involving non-relationship databases (Cypher/Neo4j). 
 <br/><br/>
 - 👨‍💻 Previously:
-   - 📚 Math @ UPenn
+   - :abacus: Math @ UPenn
    - 🎓 Econ/Government @ Harvard
    - 🏛️ Executive Government roles w/ City of Boston and Commonwealth of Massachusetts
    - 📈 Sales & Trading/Banking in Equities & Derivatives covering Commodities :corn: :oil_drum: and later Prime Execution Services :dollar::chart:
