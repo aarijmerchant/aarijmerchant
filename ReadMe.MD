@@ -1,6 +1,6 @@
 👋 Hi, I'm @aarijmerchant
 
-💼 Leading the Data Control team in Content Strategy.
+💼 I manage a Content Strategy Data Control team at an eCommerce company.
 
 📊 Previously, I've helped lead our Finance (Accounts Receivable, Payment, and Credit teams) and Product Development teams.
 
