@@ -3,7 +3,9 @@
 🧩 Currently, I lead the Data Control team in Content Strategy, leveraging my diverse background in Product Development and Finance.
 <br/><br/>
 📊 Formerly, I navigated through various roles including Finance (Accounts Receivable, Payment, and Credit teams) and Product Development, where I honed my skills in managing intricate financial operations and developing innovative products.
+<br/><br/>
 🌱 My academic journey in Data, Economics, and Statistics has been predominantly with R, but my professional endeavors have seen me using SQL and Python more frequently.
+<br/><br/>
 :computer: I’m currently exploring practical applications of non-relational databases (Cypher/Neo4j), broadening my expertise in data management.
 <br/><br/>
 👨‍💻 Previous Milestones:
